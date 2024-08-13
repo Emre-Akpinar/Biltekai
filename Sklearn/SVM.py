@@ -44,7 +44,6 @@ print("Predictions: ", predictions)
 print("Predictions: ", predictions_names)
 print("Accuracy: ", accuracy)
 
-print("\n\n\n")
 
 
 
